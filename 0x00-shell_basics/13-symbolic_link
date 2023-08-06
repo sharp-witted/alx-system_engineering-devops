@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /usr/local/bin/ls ./_ls_
+ln -s /usr/local/bin/ls $PWD/_ls_
