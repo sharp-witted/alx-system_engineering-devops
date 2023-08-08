@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash \ntelnet \no \ntelnet towel.blinkenlights.nl
+=======
+#!/bin/bash 
+telnet towel.blinkenlights.nl
+>>>>>>> c04727e0b328cec2257d7c9d501d77f3c6f6c804
